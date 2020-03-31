@@ -21,3 +21,7 @@ p.view {
 a:hover {
   font-weight: normal;
 }
+
+header img {
+  border-radius: 50%;
+}
