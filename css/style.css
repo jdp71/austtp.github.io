@@ -13,3 +13,7 @@ h1 {
 p.view {
   display: none;
 }
+
+a:hover {
+  font-weight: normal;
+}
