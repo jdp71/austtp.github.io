@@ -10,10 +10,14 @@ h1 {
   font-size: 1.7em;
 }
 
+h1 a {
+  font-weight: bold;
+}
+
 p.view {
   display: none;
 }
 
 a:hover {
-  font-weight: auto;
+  font-weight: normal;
 }
