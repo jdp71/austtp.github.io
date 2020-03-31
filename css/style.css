@@ -10,7 +10,7 @@ h1 {
   font-size: 1.7em;
 }
 
-h1 a {
+h1 a:hover {
   font-weight: bold;
 }
 
