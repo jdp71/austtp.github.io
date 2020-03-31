@@ -22,6 +22,6 @@ a:hover {
   font-weight: normal;
 }
 
-header img {
+h1 + img {
   border-radius: 50%;
 }
