@@ -11,6 +11,10 @@ h1 {
   font-size: 1.7em;
 }
 
+h1, h2 {
+  color: #942c2b;
+}
+
 h1 a:hover {
   font-weight: bold;
 }
