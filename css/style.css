@@ -19,8 +19,13 @@ p.view {
   display: none;
 }
 
+a {
+  color: #5da8ba;
+}
+
 a:hover {
   font-weight: normal;
+  color: #5da8ba;
 }
 
 [alt=Logo] {
