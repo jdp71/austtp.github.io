@@ -30,6 +30,11 @@ h1, h2, h3 {
   color: #942c2b;
 }
 
+h2, h3 {
+  font-family: "Trade Gothic LT Std Regular";
+  font-weight: normal;
+}
+
 h1 a:hover {
   font-weight: bold;
 }
