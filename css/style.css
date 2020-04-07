@@ -30,6 +30,10 @@ h1, h2, h3 {
   color: #942c2b;
 }
 
+h2 {
+  font-size: 1.3em;
+}
+
 h2, h3 {
   font-family: "Trade Gothic LT Std Regular";
   font-weight: normal;
