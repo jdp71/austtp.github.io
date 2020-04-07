@@ -33,6 +33,7 @@ h1, h2, h3 {
 h2, h3 {
   font-family: "Trade Gothic LT Std Regular";
   font-weight: normal;
+  text-transform: uppercase;
 }
 
 h1 a:hover {
