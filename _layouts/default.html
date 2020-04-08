@@ -15,6 +15,34 @@
   <body>
     <div class="wrapper">
       <header>
+        <nav id="n" style="user-select: auto;">
+			    <div id="mobimenu" style="user-select: auto;">
+				    <ul style="user-select: auto; display: none;">
+					    <li style="user-select: auto;">
+						    <a href="assignment_1-2.html" style="user-select: auto;">	
+							    Assignment 1.2	
+						    </a>
+				    	</li>
+					    <li style="user-select: auto;">
+					    	<a href="assignment_2-2.html" style="user-select: auto;">
+						      Assignment 2.2
+					    	</a>
+				    	</li>
+				    	<li style="user-select: auto;">
+			    			<a href="" style="user-select: auto;" id="dropdown">
+			    				Assignment 3.2 +
+			    			</a> 
+		    				<div style="width: 100%; background-color: #124678; padding-top: 15px; padding-bottom: 5px; color: #FFF; margin-top: 15px; display: none;" id="secondary">This is a box<p>Line 2</p><p>Line 3</p><p>Line 4</p></div>
+			    		</li> 
+				    	<li style="user-select: auto;">
+				    		<a href="assignment_6-2.php" style="user-select: auto;">
+			    				Assignment 6.2
+			    			</a>
+			    		</li>
+		    		</ul>
+	    		</div>
+	    	</nav>
+        
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h2>
         
         {% if site.logo %}
