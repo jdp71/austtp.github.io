@@ -218,7 +218,7 @@ nav {
 	}
 	
 	#n ul li a:hover, #nl ul li #secondary ul li a {
-		background-color: #1A0F02;
+		background-color: #1A0F02 !important;
 	}
 	
 	#nl ul li #secondary ul li a:hover {
