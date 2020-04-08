@@ -149,6 +149,10 @@ strong {
   #menu {
     display: none; 
   }
+	
+  #ap {
+    margin-top: 25px;
+  }
 
 nav {
 		display: block;
