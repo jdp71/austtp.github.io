@@ -45,7 +45,11 @@ h2, h3 {
 
 h2.headline:before {
   content: url('../images/bullet_post.png');
-  margin-right: 10px;
+  margin-right: 1em;
+}
+
+h2.headline > *:last-child {
+  margin-bottom: 1.5em;
 }
 
 h1 a:hover {
