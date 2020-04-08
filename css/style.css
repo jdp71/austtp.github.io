@@ -29,7 +29,7 @@ h2 {
 }
 
 h2 a {
-  color: #ABA235;
+  color: #c1a045;
 }
 
 h2 a:hover {
@@ -40,8 +40,9 @@ h2, h3 {
   font-family: "TradeGothicLTStd-Extended";
   font-weight: normal;
   text-transform: uppercase;
-  color: #c1a045;
 }
+
+h2
 
 h1 a:hover {
   font-weight: bold;
