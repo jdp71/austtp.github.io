@@ -146,15 +146,13 @@ strong {
     display: none; 
   }
 
-	nav {
+nav {
 		display: block;
-		height: 200px;
 	}
 	
 	#navbar { 
 		display: block; 
-		height: 44px;
-		width: 100%;
+		height: 44px; 
 		background: #FFFFFF;
 		margin: 0 15px 0 15px;
 		border-bottom-width: 1px;
@@ -176,7 +174,7 @@ strong {
 	}
 	
 	#n ul { 
-		display: block; //
+		display: none; 
 		background: #FFFFFF; 
 		border: 0;
 		margin: 0 15px 0 15px;
@@ -184,10 +182,6 @@ strong {
 		padding: 10px 0 10px 0;
 		overflow: hidden; 
 		border-bottom: 1px solid #DDD;
-	}
-	
-	#nav {
-		display: block; //
 	}
 		
 	#n ul li ul { 
