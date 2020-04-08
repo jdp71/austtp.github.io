@@ -174,8 +174,7 @@ nav {
 	
 	#navbar a { 
 		display: block; 
-		line-height: 44px; 
-		color: #149a55; 
+		line-height: 44px;
 		text-align: center;
 		text-transform: uppercase;
 	}
