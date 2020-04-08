@@ -164,7 +164,7 @@ nav {
 		margin: 0;
 		border-bottom-width: 1px;
 		border-bottom-style: solid;
-		border-bottom-color: #DDD;
+		border-bottom-color: #2b1d00;
 		text-align: center;
 	}
 	
@@ -187,7 +187,7 @@ nav {
 		height: auto;  
 		padding: 0;
 		overflow: hidden; 
-		border-bottom: 1px solid #DDD;
+		border-bottom: 1px solid #2b1d00;
 	}
 		
 	#n ul li ul { 
@@ -223,5 +223,9 @@ nav {
 	
 	header li {
 		height: auto;
+	}
+	
+	header ul {
+		background-color: #2b1d00;
 	}
 }
