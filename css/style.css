@@ -235,31 +235,12 @@ nav {
 	
 	header ul {
 		background-color: #2b1d00;
+		position: static;
 	}
 	
 	header ul a, header ul a:hover, header ul a:link, header ul a:visited, header ul a:active {
 		font-size: 12px;
 		color: #DDDED0;
 		font-weight: 100;
-	}
-}
-
-@media print, screen and (max-width: 720px) { 
-	header{
-		padding: auto;
-	}
-	
-	header ul, header p.view { 
-		position: auto;
-	}
-}
-
-@media print, screen and (max-width: 480px) {
-	header ul {
-		width: 100%;
-	}
-	
-	header li, header ul li+li+li {
-		width: 100%;
 	}
 }
