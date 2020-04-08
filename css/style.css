@@ -163,7 +163,8 @@ strong {
 	
 	#navbar { 
 		display: block; 
-		height: 44px; 
+		height: 44px;
+		width: 100%;
 		background: #FFFFFF;
 		margin: 0 15px 0 15px;
 		border-bottom-width: 1px;
@@ -201,7 +202,7 @@ strong {
 		
 	#n ul li ul { 
 		display: block; 
-		position: static; 
+		# position: static; 
 		border: 0; 
 	}
 	
