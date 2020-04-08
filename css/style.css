@@ -22,6 +22,9 @@ p, ul, ol, table, pre, dl {
 
 pre {
   padding: 1em;
+  background-color: #DDDED0;
+  border: 1px solid #DDDED0;
+  border-radius: 0;
 }
 
 pre, code {
