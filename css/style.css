@@ -27,6 +27,14 @@ h2 {
   font-size: 1.2em;
 }
 
+h2 a {
+  color: #c1a045;
+}
+
+h2 a:hover {
+  color: #6e8453;
+}
+
 h2, h3 {
   font-family: "TradeGothicLTStd-Extended";
   font-weight: normal;
