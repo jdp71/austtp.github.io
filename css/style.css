@@ -133,4 +133,77 @@ strong {
   #menu {
     display: none;
   }
+
+	nav {
+		display: block;
+	}
+	
+	#navbar { 
+		display: block; 
+		height: 44px; 
+		background: #FFFFFF;
+		margin: 0 15px 0 15px;
+		border-bottom-width: 1px;
+		border-bottom-style: solid;
+		border-bottom-color: #DDD;
+		text-align: center;
+	}
+	
+	p.center {
+		margin-top: 0px !important;
+	}
+	
+	#navbar a { 
+		display: block; 
+		line-height: 44px; 
+		color: #149a55; 
+		text-align: center;
+		text-transform: uppercase;
+	}
+	
+	#n ul { 
+		display: none; 
+		background: #FFFFFF; 
+		border: 0;
+		margin: 0 15px 0 15px;
+		height: auto;  
+		padding: 10px 0 10px 0;
+		overflow: hidden; 
+		border-bottom: 1px solid #DDD;
+	}
+	
+	#nav {
+		display: none;
+	}
+		
+	#n ul li ul { 
+		display: block; 
+		position: static; 
+		border: 0; 
+	}
+	
+	#n ul li ul li { 
+		margin-left: 22px; 
+		width: auto; 
+	}
+	
+	#n ul li { 
+		border: 0; 
+		width: 100%; 
+		padding: 7px 0;
+		border: 0; 
+		text-align: center;
+	}
+	
+	#n ul li a, #n ul li ul li a { 
+		display: block;
+		text-align: center;
+		text-shadow: none; 
+		width: 100%; 
+		margin: 0; 
+	}
+	
+	#n ul li ul li a { 
+		border: 0; 
+	}
 }
