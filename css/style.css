@@ -158,7 +158,7 @@ nav {
 		display: block; 
 		height: 44px; 
 		background: #FFFFFF;
-		margin: 0;
+		margin: 0 0 25px 0;
 		border-bottom-width: 1px;
 		border-bottom-style: solid;
 		border-bottom-color: #DDD;
