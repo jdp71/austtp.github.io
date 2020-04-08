@@ -29,6 +29,7 @@ h2 {
 
 h2 a {
   color: #c1a045;
+  letter-spacing: -0.1px;
 }
 
 h2 a:hover {
