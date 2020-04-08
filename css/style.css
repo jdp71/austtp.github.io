@@ -40,7 +40,7 @@ pre {
   border-radius: 0;
 }
 
-pre, code {
+pre, code, .highlight .k, .highlight .kv {
   color: #1A0F02;
 }
 
