@@ -3,7 +3,7 @@ logo: "/images/logo_overlay.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br >
   <span style="color: #DDDED0;">I'm a data science graduate student at Bellevue University.</span>
-  <h2 style="margin: 0.5em 0 0 1.5em;"><a href="/about">About</a></h2><h2 style="margin: 0.5em 0;"><a href="/work">Work</a></h2><h2 style="margin: 1em 0 0 0.5em;"><a href="/contact">Contact</a></h2>
+  <h2 style="margin: 1.5em 0 0.5em 0;"><a href="/about">About</a></h2><h2 style="margin: 0.5em 0;"><a href="/work">Work</a></h2><h2 style="margin: 0.5em 0 1em 0;"><a href="/contact">Contact</a></h2>
   <a href="http://www.linkedin.com/in/austinpoole/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
