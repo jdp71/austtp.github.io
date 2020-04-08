@@ -217,8 +217,12 @@ nav {
 		padding-top: 2em;
 	}
 	
-	#n ul li a:hover {
+	#n ul li a:hover, #nl ul li #secondary ul li a {
 		background-color: #1A0F02;
+	}
+	
+	#nl ul li #secondary ul li a:hover {
+		background-color: #2b1d00;
 	}
 	
 	#n ul li ul li a { 
