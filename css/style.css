@@ -228,4 +228,9 @@ nav {
 	header ul {
 		background-color: #2b1d00;
 	}
+	
+	header ul a {
+		font-size: auto;
+		color: auto;
+	}
 }
