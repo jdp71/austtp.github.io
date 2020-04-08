@@ -112,4 +112,15 @@ strong {
     margin: 0;
   }
   
+  header {
+    text-align: center;
+  }
   
+  #linkedin {
+    display: none;
+  }
+  
+  #menu {
+    display: none;
+  }
+}
