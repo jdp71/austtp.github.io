@@ -17,6 +17,11 @@
   <body>
     <div class="wrapper">
       <header>
+	      <div id="navbar" style="user-select: auto;">
+			<a href="#" style="user-select: auto;">
+				Menu
+			</a>
+		</div>
 	<nav id="n" style="user-select: auto;">
 			<div id="mobimenu" style="user-select: auto;">
 				<ul style="user-select: auto; display: none;">
@@ -44,12 +49,6 @@
 				</ul>
 			</div>
 		</nav>
-		
-		<div id="navbar" style="user-select: auto;">
-			<a href="#" style="user-select: auto;">
-				Menu
-			</a>
-		</div>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h2>
         
         {% if site.logo %}
