@@ -116,6 +116,10 @@ strong {
     text-align: center;
   }
   
+  #description {
+    display: none;
+  }
+  
   #linkedin {
     display: none;
   }
