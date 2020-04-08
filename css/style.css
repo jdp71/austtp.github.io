@@ -133,6 +133,10 @@ strong {
     text-align: center;
     padding-right: 0em;
   }
+	
+  header ul {
+    border-radius: 0;
+  }
   
   #description {
     display: none;
