@@ -67,3 +67,7 @@ a:hover {
 [alt=Logo] {
   border-radius: 50%;
 }
+
+strong {
+  color: #738D3A;
+}
