@@ -245,33 +245,21 @@ nav {
 }
 
 @media print, screen and (max-width: 720px) { 
-	body { 
-		word-wrap:break-word;
-	}
-	
 	header{
-		padding:0;
+		padding: auto;
 	}
 	
 	header ul, header p.view { 
-		position:static;
-	}
-	
-	pre,code { 
-		word-wrap:normal;
+		position: auto;
 	}
 }
 
 @media print, screen and (max-width: 480px) {
-	body {
-		padding:15px;
-	}
-	
 	header ul {
-		width:99%;
+		width: 100%;
 	}
 	
 	header li, header ul li+li+li {
-		width:33%;
+		width: 100%;
 	}
 }
