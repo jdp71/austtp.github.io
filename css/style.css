@@ -40,7 +40,7 @@ h2, h3 {
   font-family: "TradeGothicLTStd-Extended";
   font-weight: normal;
   text-transform: uppercase;
-  margin-bottom: 1em;
+  margin-bottom: 0.5em;
 }
 
 h2.headline:before {
@@ -67,6 +67,15 @@ a:hover {
 
 [alt=Logo] {
   border-radius: 50%;
+}
+
+.box {
+  background-color: #2b1d00;
+  padding: 1em;
+}
+
+.orange {
+  color: #ac4209;
 }
 
 strong {
