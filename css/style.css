@@ -20,6 +20,11 @@ p, ul, ol, table, pre, dl {
   margin: 0 0 1em;
 }
 
+pre {
+  padding: 1em;
+  color: #1A0F02;
+}
+
 h1 {
   font-size: 1.7em;
 }
