@@ -49,7 +49,7 @@ h2.headline:before {
 }
 
 h2.headline:not(:first-child) {
-    margin-top: 0.5em;
+    margin-top: 1em;
 }
 
 h1 a:hover {
