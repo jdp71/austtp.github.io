@@ -48,10 +48,6 @@ h2.headline:before {
   margin-right: 1em;
 }
 
-h2.headline > *:last-child {
-  margin-bottom: 1.5em;
-}
-
 h1 a:hover {
   font-weight: bold;
 }
