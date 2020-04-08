@@ -22,6 +22,9 @@ p, ul, ol, table, pre, dl {
 
 pre {
   padding: 1em;
+}
+
+pre, code {
   color: #1A0F02;
 }
 
