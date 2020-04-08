@@ -48,6 +48,10 @@ h2.headline:before {
   margin-right: 0.5em;
 }
 
+h2.headline:not(:first-child) {
+    margin-top: 0.5em;
+}
+
 h1 a:hover {
   font-weight: bold;
 }
