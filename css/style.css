@@ -42,7 +42,9 @@ h2, h3 {
   text-transform: uppercase;
 }
 
-h2
+h2.headline:before {
+  content: url('../images/bullet_post.png');
+}
 
 h1 a:hover {
   font-weight: bold;
