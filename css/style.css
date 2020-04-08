@@ -16,6 +16,10 @@ body {
   color: #DDDED0;
 }
 
+p, ul, ol, table, pre, dl {
+  margin: 0 0 1.5em;
+}
+
 h1 {
   font-size: 1.7em;
 }
