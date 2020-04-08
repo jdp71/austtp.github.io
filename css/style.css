@@ -126,7 +126,7 @@ strong {
   
   section {
     border: 0px;
-    padding: 0.5em 0 0 0;
+    padding: 1.5em 0 0 0;
     margin: 0;
   }
   
@@ -152,7 +152,7 @@ strong {
   }
 	
   #ap {
-    margin-top: 2.5em;
+    margin-top: 2em;
   }
 
 nav {
