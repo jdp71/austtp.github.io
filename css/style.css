@@ -1,9 +1,9 @@
-@import url("//hello.myfonts.net/count/3b54d2");
+@import url("//hello.myfonts.net/count/3b54d4");
   
 @font-face {
-  src: url('../webFonts/TradeGothicLTStd-BoldExt/font.eot');
-  font-family: 'TradeGothicLTStd-BoldExt';
-  src: url('../webFonts/TradeGothicLTStd-BoldExt/font.woff2') format('woff2'), url('../webFonts/TradeGothicLTStd-BoldExt/font.woff') format('woff'), url('../webFonts/TradeGothicLTStd-BoldExt/font.eot?#iefix') format('embedded-opentype'), url('../webFonts/TradeGothicLTStd-BoldExt/font.ttf') format('truetype');
+  src: url('../webFonts/TradeGothicLTStd-Extended/font.eot');
+  font-family: 'TradeGothicLTStd-Extended';
+  src: url('../webFonts/TradeGothicLTStd-Extended/font.woff2') format('woff2'), url('../webFonts/TradeGothicLTStd-Extended/font.woff') format('woff'), url('../webFonts/TradeGothicLTStd-Extended/font.eot?#iefix') format('embedded-opentype'), url('../webFonts/TradeGothicLTStd-Extended/font.ttf') format('truetype');
 }
 
 footer {
@@ -28,7 +28,7 @@ h2 {
 }
 
 h2, h3 {
-  font-family: "TradeGothicLTStd-BoldExt";
+  font-family: "TradeGothicLTStd-Extended";
   font-weight: normal;
   text-transform: uppercase;
   color: #c1a045;
