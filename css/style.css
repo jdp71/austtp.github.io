@@ -58,6 +58,7 @@ h2 {
 
 h2 a, h2 a:active, h2 a:link, h2 a:visited {
   color: #c1a045;
+  font-weight: 100;
 }
 
 h2 a:hover {
