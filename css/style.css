@@ -187,8 +187,7 @@ nav {
 		width: 100%;
 		height: auto;  
 		padding: 0;
-		overflow: hidden; 
-		border-bottom: 1px solid #2b1d00;
+		overflow: hidden;
 	}
 		
 	#n ul li ul { 
