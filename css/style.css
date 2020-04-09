@@ -135,8 +135,9 @@ form.wj-contact input[type="submit"] {
     outline: none;
     color: white;
     background-color:  #9f2d08;
-    font-family: "TradeGothicLTStd-Extended";
-    padding: 0.5em;
+    font-family: verdana;
+    text-transform: uppercase;
+    padding: 0.75em;
     margin: 0.25em 0 0 0;
     border: 1px solid transparent;
     height: auto;
