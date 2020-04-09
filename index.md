@@ -13,32 +13,19 @@
   {% endfor %}
 </div> 
 
-<!-- This loops through the paginated posts -->
-{% for post in site.posts %}
-  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-  <p class="author">
-    <span class="date">{{ post.date }}</span>
-  </p>
-  <div class="content">
-    {{ post.content }}
-  </div>
-{% endfor %}
+{% if paginator.total_pages > 1 %}
+  <ul class="pager">
+      {% if paginator.previous_page %}
+      <li class="previous">
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+      </li>
+      {% endif %}
+      {% if paginator.next_page %}
+      <li class="next">
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+      </li>
+      {% endif %}
+  </ul>
+  {% endif %}
 
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">
-      Previous
-    </a>
-  {% else %}
-    <span class="previous">Previous</span>
-  {% endif %}
-  <span class="page_number ">
-    Page: {{ paginator.page }} of {{ paginator.total_pages }}
-  </span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% else %}
-    <span class="next ">Next</span>
-  {% endif %}
-</div>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
