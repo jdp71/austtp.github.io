@@ -2,7 +2,7 @@ name: Austin Poole
 title: <img src="/images/austin_poole.png" alt="Austin Poole" />
 logo: "/images/logo_overlay.png?raw=true" 
 email: austtp25@gmail.com
-description: > I'm a data science graduate student at Bellevue University.
+description: I'm a data science graduate student at Bellevue University.
 theme: jekyll-theme-minimal
 permalink: /:title/
 google_analytics: UA-162006423-1
