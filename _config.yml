@@ -10,3 +10,5 @@ description: >
 theme: jekyll-theme-minimal
 permalink: /:title/
 google_analytics: UA-162006423-1
+disqus: austtp86
+comments: true
