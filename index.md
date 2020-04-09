@@ -13,6 +13,16 @@
   {% endfor %}
 </div> 
 
+{% for post in paginator.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+
 {% if paginator.total_pages > 1 %}
   <ul class="pager">
       {% if paginator.previous_page %}
