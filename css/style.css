@@ -130,7 +130,6 @@ form.wj-contact input[type="text"], form.wj-contact textarea[type="text"] {
     font-family: verdana, sans-serif;
     font-weight: 100;
     border-radius: 0;
-    transition: box-shadow .2s ease;
 }
 
 form.wj-contact input[type="submit"] {
