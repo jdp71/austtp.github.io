@@ -8,8 +8,6 @@ google_analytics: UA-162006423-1
 disqus: austtp86
 comments: true
 baseurl: "/austtp.github.io"
-paginate: nil
-paginate_path: nil
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
@@ -45,7 +43,7 @@ paginate_path: nil
 # Pagination Settings
 pagination:
   enabled: true
-  per_page: 3
+  per_page: 2
   offset: 2
   permalink: '/page/:num/'
   title: ':title - page :num of :max'
