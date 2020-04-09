@@ -9,7 +9,7 @@ google_analytics: UA-162006423-1
 disqus: austtp86
 comments: true
 baseurl: "/austtp.github.io"
-paginate: 5
+paginate: 2
 paginate_path: "/page:num/"
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
