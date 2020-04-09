@@ -1,3 +1,39 @@
-<h2 class="headline">Portfolio</h2>
+<h2 class="headline">Boston Housing</h2>
 
-<p class="box"><strong>Project description:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p class="box"><strong>Project description:</strong> </p>
+
+<h2 class="headline">Chicago Crimes</h2>
+
+<p class="box"><strong>Project description:</strong> </p>
+
+<h2 class="headline">Document Imaging</h2>
+
+<p class="box"><strong>Project description:</strong> </p>
+
+<h2 class="headline">Groundwater Levels</h2>
+
+<p class="box"><strong>Project description:</strong> </p>
+
+<h2 class="headline">Movie Recommendations</h2>
+
+<p class="box"><strong>Project description:</strong> </p>
+
+<h2 class="headline">Phone Support</h2>
+
+<p class="box"><strong>Project description:</strong> </p>
+
+<h2 class="headline">Stock Analysis</h2>
+
+<p class="box"><strong>Project description:</strong> </p>
+
+<h2 class="headline">Student Dropout</h2>
+
+<p class="box"><strong>Project description:</strong> </p>
+
+<h2 class="headline">Twitter API</h2>
+
+<p class="box"><strong>Project description:</strong> </p>
+
+<h2 class="headline">Web Scraping</h2>
+
+<p class="box"><strong>Project description:</strong> </p>
